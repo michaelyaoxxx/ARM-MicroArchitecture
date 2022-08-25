@@ -2,7 +2,10 @@
 compare microarchitecture of ARMv7 &amp; ARMv8 Application Processor
 
 # ARMv7-A Processor Comparison Table
+## Image Format
+![Comparison Table](https://github.com/michaelyaoxxx/ARM-MicroArchitecture/blob/main/ARMv7-A%20Processor%20Comparison%20Table.png)
 
+## Original Format
 
 | Feature                      | Feature                                                      | Cortex-A5                               | Cortex-A7                                | Cortex-A8                                                    | Cortex-A9                                                    | Cortex-A15                                                   | Cortex-A17                                                   |
 | ---------------------------- | ------------------------------------------------------------ | --------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
