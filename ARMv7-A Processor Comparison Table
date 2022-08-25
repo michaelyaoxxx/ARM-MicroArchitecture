@@ -1,4 +1,5 @@
 
+
 | Feature                      | Feature                                                      | Cortex-A5                               | Cortex-A7                                | Cortex-A8                                                    | Cortex-A9                                                    | Cortex-A15                                                   | Cortex-A17                                                   |
 | ---------------------------- | ------------------------------------------------------------ | --------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | General Information          | announced  date                                              | 2009                                    | 2011                                     | 2005                                                         | 2007                                                         | 2010                                                         | 2014                                                         |
@@ -51,7 +52,4 @@
 | others                       | Bus  Protocol                                                | AMBA3  AXI 64                           | AMBA  4 ACE 128-bit                      | AMBA3  AXI 64 or 128-bit                                     | AMBA3  AXI 2*64                                              | ACE  or CHI, 128-bit                                         | ACE,  128-bit                                                |
 | others                       | Trace                                                        | Optional  ETM                           | Optional  ETM separate macrocell         | Integrated  ETM                                              | Integrated  PTM                                              | Integrated  PTM                                              | Integrated  PTM                                              |
 
-Reference:
-- [Arm Cortex-A Processor Comparison Table](https://developer.arm.com/-/media/Arm Developer Community/PDF/Cortex-A R M datasheets/Arm Cortex-A Comparison Table_v4.ashx), ARM Official Website
-- [ARM Cortex-A Series Programmer's Guide for ARMv7-A](https://developer.arm.com/documentation/den0013/latest), ARM Official Website
-- - ARM A5/A7/A8/A9/A15/A17 TRM(Technical Reference Manual), ARM Official Website
+
